@@ -1,0 +1,15 @@
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\bin\Debug\net6.0\CafePointOfSale.exe
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\bin\Debug\net6.0\CafePointOfSale.deps.json
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\bin\Debug\net6.0\CafePointOfSale.runtimeconfig.json
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\bin\Debug\net6.0\CafePointOfSale.dll
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\bin\Debug\net6.0\CafePointOfSale.pdb
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\CafePointOfSale.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\CafePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\CafePointOfSale.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\CafePointOfSale.AssemblyInfo.cs
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\CafePointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\CafePointOfSale.dll
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\refint\CafePointOfSale.dll
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\CafePointOfSale.pdb
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\CafePointOfSale.genruntimeconfig.cache
+C:\Users\xando\source\repos\CafePointOfSale\CafePointOfSale\obj\Debug\net6.0\ref\CafePointOfSale.dll
